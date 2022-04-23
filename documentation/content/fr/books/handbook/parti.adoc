@@ -16,6 +16,6 @@ Cette partie du Manuel FreeBSD est destinée aux nouveaux venus à FreeBSD, util
 * Guideront les lecteurs à travers le processus d'installation.
 * Enseigneront quelques bases et fondements d'UNIX(R).
 * Montreront comment installer la profusion d'applications tierces disponibles pour FreeBSD.
-* Présenteront X, le système de fenêtrage d'UNIX(R), et détailleront comment configurer un environnement de travail qui rendra les utilisateurs plus productifs.
+* Présenteront X, le système de fenêtrage d'UNIX(R) et détailleront comment configurer un environnement de travail qui rendra les utilisateurs plus productifs.
 
-Le nombre de références dans le texte a été limité au minimum afin que cette section du Manuel puisse être lue du début jusqu'à la fin avec le moins de changements de pages possibles.
+Le nombre de références dans le texte a été limité au minimum afin que cette section du Manuel, puisse être lue du début jusqu'à la fin avec le moins de changements de pages possibles.
